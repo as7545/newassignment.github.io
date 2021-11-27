@@ -1,0 +1,23 @@
+.position-ancestor{
+    position: fixed;
+    width: 400px;
+    height: 400px;
+    background-color: #f59542;
+    top: 50px;
+    left:400px;
+    overflow: scroll;
+    
+    
+}
+.sticky{
+    position: sticky;
+    background-color: red;
+    top: 0;
+}
+h1{
+    text-align: center;
+    background-color:#bc42f5;
+    font-size: larger;
+    margin-top: 50px;
+
+}
